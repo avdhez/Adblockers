@@ -1,4 +1,15 @@
 
+
+
+anony-ig.com##.fw-bold
+anony-ig.com##.fw-normal
+anony-ig.com##.navbar
+anony-ig.com##.col-12
+anony-ig.com##.g-4
+anony-ig.com###page-content
+anony-ig.com##.mt-2
+anony-ig.com##.footer
+
 blog.finzoox.com##.inside-article
 blog.finzoox.com###main
 blog.finzoox.com###content
@@ -7,6 +18,16 @@ blog.finzoox.com###masthead
 
 
 
+easycomment.ai##.py-16
+easycomment.ai##.seo-advantages
+easycomment.ai##.how-work-section
+easycomment.ai##.ec-cta
+easycomment.ai##.seo-recommended-tools-grid
+easycomment.ai###layout-footer
+easycomment.ai##.base-disclaimer
+easycomment.ai##.story-viewer__title
+easycomment.ai##.story-viewer__free-features
+easycomment.ai###saasbox-nav
 enhancer.photo###masthead
 enhancer.photo##.gb-container-c3a4dcf6
 enhancer.photo##.gb-container-ca503305
@@ -26,6 +47,34 @@ enhancer.photo##.gb-container-707a9b42
 enhancer.photo##.site-footer
 
 
+
+
+gramsnap.com##.header__title
+gramsnap.com##.breadcrumb
+gramsnap.com##.header__nav
+gramsnap.com##.explanations
+gramsnap.com##.insta-viewer__container
+gramsnap.com##.insta-viewer__hub-faq
+gramsnap.com##body>div>footer
+
+
+
+instacognito.com##.site-card
+instacognito.com##.features-card
+instacognito.com##.steps-container
+instacognito.com##.faq-container
+instacognito.com##.footer
+instacognito.com##.menu-container
+instacognito.com##.title-description
+instacognito.com##.title-container
+instacognito.com##.header
+
+instashadow.com##.sub-title
+instashadow.com##.instashadow-pic
+instashadow.com##.site-title
+instashadow.com##.figma-box
+instashadow.com##.features-card
+instashadow.com##.footer
 
 
 jobsmbn.in###overlay
@@ -51,5 +100,9 @@ optiklink.net###arlinablock
 optiklink.net##.card-stats
 optiklink.net##.bg-gradient-primary
 optiklink.net##i>i>h4
+
+
+
+
 
 
